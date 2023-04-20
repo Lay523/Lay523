@@ -1,5 +1,10 @@
 ### Hi there 👋
+## Quick overview
+<span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lay523&show_icons=true&hide_border=true&theme=vue-dark" alt="My github stats" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lay523&langs_count=3" />
+</span>
 <!--
 **Lay523/Lay523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
